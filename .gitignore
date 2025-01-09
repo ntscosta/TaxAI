@@ -1,0 +1,36 @@
+# Pastas de build
+bin/
+obj/
+out/
+
+# Arquivos de log
+*.log
+
+# Pastas de IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configurações específicas de sistema operacional
+*.DS_Store
+Thumbs.db
+
+# Pastas de pacotes e dependências
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações locais
+*.db
+*.local
